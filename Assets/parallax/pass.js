@@ -7,5 +7,5 @@ if (x == password) {
  window.location = "birthday.html";
 }
 else {
- window.location = "bad.html";
+ window.location = "index.html";
 }
